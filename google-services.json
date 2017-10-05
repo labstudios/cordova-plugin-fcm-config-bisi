@@ -8,9 +8,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1031432401235:android:f75f5fae835eadc0",
+        "mobilesdk_app_id": "1:1031432401235:android:aa8b9e6f4db5751f",
         "android_client_info": {
-          "package_name": "com.bsi.safety"
+          "package_name": "com.bisi.safety"
         }
       },
       "oauth_client": [
