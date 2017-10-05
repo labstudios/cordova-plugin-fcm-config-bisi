@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1031432401235",
+    "firebase_url": "https://bisi-safety-app.firebaseio.com",
+    "project_id": "bisi-safety-app",
+    "storage_bucket": "bisi-safety-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031432401235:android:f75f5fae835eadc0",
+        "android_client_info": {
+          "package_name": "com.bsi.safety"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031432401235-9aghv9nu5cp75fgqgbmm5u9r7um5pv45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuYRauz4ytahQSn7EGw4VDCMgS7bbyQGs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
